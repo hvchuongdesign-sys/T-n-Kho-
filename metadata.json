@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Kho Vật Tư Dư Quảng Cáo",
+  "description": "Phần mềm quản lý kho vật tư dư, tiết kiệm chi phí và tối ưu hóa tận dụng nguyên liệu cho công ty quảng cáo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
